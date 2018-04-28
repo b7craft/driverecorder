@@ -5,4 +5,5 @@ venv
 *.pyc
 *.pyo
 __pycache__
-recorder/static/files/*.jpg
+**/static/files/*
+!.gitkeep
